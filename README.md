@@ -4,7 +4,7 @@
 * Criar o meu primeiro projeto
 * Configurações
 
-Dicas de instalação
+Dicas de instalação no Linux
 ---
 
 * NodeJS
